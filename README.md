@@ -1,16 +1,14 @@
-### Hi there 👋
+```
+▬▬▬▬.◙.▬▬▬▬
+  ▂▄▄▓▄▄▂                                                        ╫►►        ▁▁ ▓
+◢◤ █▀▀████▄▄▄▄▄▄▄◢◤            ● ● ● ▄▄▄▄▄▄▄████▮                ╫       █████████
+█  NATEE'S GITHUB █▀▀▀▀╬            ▂▃▄▅████▀▀▀████▅▄            ╫    ▟██⍁██⍁██⍁███▙
+◥█████████◤                       ▄█████ FRONTEND █████▄       ▜████ LEARN PYTHON ████▛
+══╩════╩══                         ◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲◤         ▜███████████████████▛╬
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
 
-<!--
-**224x/224x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👽 Information
+**Hi there, I'm [natee](https://natee.github.io/website). 👋 I am a frontend developer from China.** 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src ="https://img.shields.io/badge/🌐-natee.github.io-%23.svg?style=for-the-badge&logo=&logoColor=white%22">](https://natee.github.io/)
